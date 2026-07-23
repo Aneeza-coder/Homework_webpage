@@ -153,18 +153,18 @@ ol li {
     max-width:700px;
     height:400px;
     margin:20px auto;
-    border:5px solid #333;
+    border:5px solid #000; /* black border */
     border-radius:20px;
-    background:#ddd;
+    background:#FFFFFF; /* white background */
     background-size:cover;
     background-position:center;
     display:flex;
     justify-content:center;
     align-items:center;
-    color:white;
+    color:#000; /* black text */
     font-size:28px;
     font-weight:bold;
-    text-shadow:2px 2px 6px black;
+    text-shadow: none; /* shadow hata di */
 }
 
 .gallery{
