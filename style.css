@@ -31,12 +31,12 @@ body {
 }
 
 header {
-    background: #c0392b;
-    color: #ffff99;
-    /* white kar do */
+    background: #A00000; /* pehle #c0392b tha - thora dark kar diya */
+    color: #FFFFFF; /* pehle #ffff99 tha - white kar diya */
     text-align: center;
     width: 100%;
     padding: 25px;
+    font-weight: bold; /* ye add kar do */
 }
 
 #clock {
